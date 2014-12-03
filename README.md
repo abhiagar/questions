@@ -29,3 +29,8 @@
 ####History
 
 History never remembers things that don't happen. Examples could be things that someone sacrifies themselves to stop - we never rememmber these individuals.
+
+####Natural Selection
+
+"Natural selection does not maximize happiness or even well-being, but rather long-term reproductive success."
+	- Pagel, Mark (2012-02-27). Wired for Culture: Origins of the Human Social Mind (p. 24). W. W. Norton & Company. Kindle Edition. 
