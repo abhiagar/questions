@@ -37,3 +37,7 @@ History never remembers things that don't happen. Examples could be things that 
 - "How did humans become self-aware?"
 - "How can evolution account for the human mind?" 
 - "How do scientists explain things like language, that do not occur anywhere else in the animal world?"
+
+####Design/Feedback loop
+
+- Always get input in things that you are doing & learning. Show them what you're doing and then critically ask quesitons.
