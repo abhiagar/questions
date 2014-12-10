@@ -41,3 +41,8 @@ History never remembers things that don't happen. Examples could be things that 
 ####Design/Feedback loop
 
 - Always get input in things that you are doing & learning. Show them what you're doing and then critically ask quesitons.
+
+#### TED Talks
+
+- There is no Critical discourse
+- There's no discussion. It is an assertment they make from their research
