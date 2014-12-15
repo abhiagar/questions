@@ -16,6 +16,9 @@
 	- There are problems in fields in Computer Vision where when we try model how we see things we run into problems where our artificial-eye now gets tricked by illusions the same way as us.
 		- Is this okay?
 	- Is it acceptable for an AI to be just like us? Is our expectation for it to be smarter, and better than us?
+	- It takes a while for us to learn how to do simple things such as walk, talk, etc. 
+		- Do we give the same liberty to robots/AI we build and allow them the same time period?
+	- The central idea is if we're literally trying to create another version of us.
 - What is it for an AI to be intelligent?
 	- Should it just know things? 
 	- How should it understand these things?
