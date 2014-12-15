@@ -7,6 +7,15 @@
 - What is morality to an AI?
 	- Three laws of robotics?
 	- Judgement?
+	- How are we to explain to a robot what is moral and what is not?
+		- Do we program this sense of morality into it? 
+		- Do we "teach" it morality?
+		- Does it matter if it becomes immoral? Does this make it more humanistic?
+- If we're modelling an AI after us, what are the downfalls?
+	- What could go wrong? What are problems with us?
+	- There are problems in fields in Computer Vision where when we try model how we see things we run into problems where our artificial-eye now gets tricked by illusions the same way as us.
+		- Is this okay?
+	- Is it acceptable for an AI to be just like us? Is our expectation for it to be smarter, and better than us?
 - What is it for an AI to be intelligent?
 	- Should it just know things? 
 	- How should it understand these things?
