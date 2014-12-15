@@ -24,6 +24,15 @@
 	- How should it understand these things?
 - Should an AI be programmed once? Or should it be capable or re-writing itself? 
 
+####Machine Learning
+
+- Can there be a single-learning algorithm to learn everything?
+	- Same algorithm to learn how to play basketball as there is to learn math.
+	- Mountcastle's theory & Jeff Hawkins' Framework
+	- Reference my Gallatin Quantification Papers (2) for this issue?
+- How can we define intelligence, and then quantify it?
+	- Do we need to define something in order to quantify it, or do we quantify it by defining it? OR do we allow it to be quantified when we define it.
+
 ####Materials
 
 - What are basic blocks that can be improved to make peoples lives better?
