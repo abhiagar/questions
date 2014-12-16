@@ -23,6 +23,7 @@
 	- Should it just know things? 
 	- How should it understand these things?
 - Should an AI be programmed once? Or should it be capable or re-writing itself? 
+- How should it differenciate between reality and not? 
 
 ####Machine Learning
 
