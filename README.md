@@ -68,3 +68,8 @@ History never remembers things that don't happen. Examples could be things that 
 
 - There is no Critical discourse
 - There's no discussion. It is an assertment they make from their research
+
+#### Analysis
+
+- Is there are correlation between sentiments of tweets given a news article, and the sentiment of the news article title itself. So if we score a sentiment for the title - would there be a relationship between that and the sentiments of the tweets.
+	- For a sad title - would the things people tweet out be sad?
